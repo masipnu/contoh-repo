@@ -59,6 +59,8 @@ markdown_extensions:
   - pymdownx.superfences
   # Fitur
   - attr_list
+  # Keyboard
+  - pymdownx.keys
 
 
 # Footer
